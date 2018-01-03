@@ -1,0 +1,14 @@
+ext {
+
+    daggerVersion = '2.8'
+    rxjavaVersion = '1.2.1'
+    supportLibraryVersion = '25.3.0'
+    okhttpVersion = '3.8.1'
+    retrofitVersion = '2.1.0'
+    butterknifeVersion = '8.7.0'
+    junitVersion = '4.12'
+    runnerVersion = '0.5'
+    rulesVersion = '0.5'
+    glideVersion = '3.7.0'
+    glideOkhttpVersion = "1.4.0"
+}
